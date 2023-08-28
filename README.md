@@ -6,6 +6,7 @@ A personal movie database that allows the user to search, rate, and review movie
 - CSS
 - APIs (themoviedb)
 - Web Framework (flask)
+- Databases (SQAlchemy, SQLite)
 
 # Special Notes
 Please update lines 9 and 12 with your personal API_KEY and 'SECRET_KEY' for the themmoviedb.org API
